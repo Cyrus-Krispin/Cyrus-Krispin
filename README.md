@@ -6,8 +6,8 @@ I am a final year Computer Science student at the National University of Singapo
 
 ## 🚀 What I'm Up To
 
-    - 🤖 Developing a neural network model with scikit-learn to predict F1 race positions
-    - ♟️ Exploring chess programming to understand game mechanics and develop intelligent algorithms
+- 🤖 Developing a neural network model with scikit-learn to predict F1 race positions
+- ♟️ Exploring chess programming to understand game mechanics and develop intelligent algorithms
 
 ## 🌐 Connect with me:
 
