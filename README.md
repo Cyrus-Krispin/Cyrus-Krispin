@@ -1,6 +1,9 @@
-<!-- Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Java+Software+Engineer;Cloud+Enthusiast;Problem+Solver" alt="Typing Animation"/>
+<!-- Introduction Banner -->
+<div align="center" style="position: relative;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&text=&fontSize=0" alt="Waving Banner"/>
+  <div style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Java+Software+Engineer;Cloud+Specialist;Problem+Solver" alt="Typing Animation"/>
+  </div>
 </div>
 
 <br/>
