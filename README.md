@@ -1,17 +1,15 @@
-<!-- Introduction Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&text=Java%20Software%20Developer&fontSize=36&fontColor=c0caf5&animation=fadeIn&fontAlignY=32" alt="Header Banner"/>
-</div>
+# Cyrus Krispin Vijikumar
 
-<br/>
-<!-- GitHub Stats & LeetCode -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyrus-krispin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/cyrus-krispin?theme=dark&font=Karma&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" height="150"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,aws,azure,docker,kubernetes,postgresql,mongodb,git" alt="Tech Stack"/>
-</div>
+Software Engineer based in Singapore, building production-grade backend systems.
 
+- Java (Java 17), Spring Boot  
+- Backend APIs and microservices  
+- Azure and AWS cloud platforms  
+- Kubernetes, Docker, CI/CD  
+- High-volume data processing  
+- Performance, reliability, clean design  
+
+Interested in backend, platform, and infrastructure development.
+
+- GitHub: https://github.com/cyrus-krispin  
+- Email: cyruskrispin@gmail.com  
