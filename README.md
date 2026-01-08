@@ -2,7 +2,7 @@
 
 Software Engineer based in Singapore, building production-grade backend systems.
 
-- Java (Java 17), Spring Boot  
+- Java, Python, TypeScript
 - Backend APIs and microservices  
 - Azure and AWS cloud platforms  
 - Kubernetes, Docker, CI/CD  
